@@ -1,7 +1,10 @@
 # subway-network
 University project | Class: Introduction to Algorithms and Data Structures | Instituto Superior Técnico 2023
 
-Part 1:
+<details>
+<summary> Part 1 (portuguese)</summary>
+<br>
+
 # Enunciado do Projeto 1 - IAED 2022/23
 
 ## Data de entrega: 24 de março 2023, às 19h59
@@ -292,3 +295,4 @@ Sugerimos que sigam os seguintes passos:
 2. Garanta que está a ler o *input* e a escrever o *output* correctamente, em particular garanta que as *strings* não ficam com espaços extra, `\n` no final, que a formatação está correcta e de acordo com o que está no enunciado, *etc*.
 3. Procure desenvolver os comandos pela ordem apresentada.
 4. Teste isoladamente cada comando e verifique que funciona correctamente.
+</details>
