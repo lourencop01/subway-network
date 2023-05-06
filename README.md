@@ -1,5 +1,5 @@
 # subway-network
-University project | Class: Introduction to Algorithms and Data Structures | Instituto Superior Técnico 2023
+University project | Class: Introduction to Algorithms and Data Structures (GRADE 19/20) | Instituto Superior Técnico 2023
 
 <details>
 <summary> Part 1 (portuguese)</summary>
